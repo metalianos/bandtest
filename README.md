@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>GOD'S ARMY</title>
 <meta charset="UTF-8">
